@@ -1,0 +1,16 @@
+{
+  "name": "backend-webdev",
+  "version": "1.0.0",
+  "description": "This is tutorial to learn about the backend course",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tan28bha/Backend-Learning.git"
+  },
+  "license": "ISC",
+  "author": "Tanmay Bhadauria",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev":"node index.js"
+  }
+}
